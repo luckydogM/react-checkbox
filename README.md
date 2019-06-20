@@ -28,4 +28,4 @@
 
 预览图
 
-![demo](https://github.com/luckydogM/react-checkbox/edit/master/demo.png "demo")
+![demo](https://github.com/luckydogM/react-checkbox/blob/master/demo.png "demo")
