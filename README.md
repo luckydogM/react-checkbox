@@ -1,25 +1,4 @@
-## build-react-cli
-##### build-react-cli是帮助你快速创建生成react项目的脚手架工具，配置了多种可选择的不同类型项目模版。
-![Demonstration](https://github.com/Hzy0913/hanlibrary/blob/master/Demonstration.gif "Demonstration")
-### Installation
 
-```
-npm install -g build-react
-```
-### Usage
-```
-build-react init my-react
-```
-**tip：** 初始化项目是第一项选择项目模版提供三种类型。
-1. `init`为通用项目模版，配置了常用的react工具。
-2. `complete-project`为完整的react项目，包括请求工具，服务转发，登录注册，复杂嵌套路由。
-3. `simple-project`为简单项目模版，提供了react以及react-router基本配置。
-##### 初始化项目完成以后
-```
-cd my-react //进入项目目录
-npm install //安装项目依赖
-npm start //运行项目
-```
 ### command
 ###### 启动项目
 `npm start` 或者 `npm run dev`
@@ -44,3 +23,9 @@ npm start //运行项目
 | showEslintErrorsInOverlay  | Boolean  | 是否使用eslint全屏报错提示  |
 | bundleAnalyzerReport  | Boolean  | 是否使用打包编译完成后显示依赖分析  |
 # react-checkbox
+
+无限层级的父子关系树状结构，自动处理层级关系，自动处理所有节点的checked状态。
+
+预览图
+
+![demo](https://github.com/luckydogM/react-checkbox/edit/master/demo.png "demo")
